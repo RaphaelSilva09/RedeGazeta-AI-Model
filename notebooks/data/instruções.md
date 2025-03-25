@@ -1,1 +1,0 @@
-Coloque os arquivos com os dados da empresa nessa pasta, pois assim os caminhos para os arquivos de dados serão padronizados.
